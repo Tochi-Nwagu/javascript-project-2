@@ -88,7 +88,6 @@ console.log(
 
 //Mathematical Functions:
 //1. Factorial: Write a function that calculates the factorial of a given number.
-// I can't figure out how todo it yet, but I will try to figure it out later.
 function factorial(n) {
   if (n < 0) {
     return 'Factorial is not defined for negative numbers.';
